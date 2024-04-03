@@ -1,1 +1,1 @@
-Change BPM of a song without affecting the Pitch.
+Change BPM of a song without affecting the Pitch using python and Rubberband
